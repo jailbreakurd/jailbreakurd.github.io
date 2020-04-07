@@ -1,0 +1,13 @@
+Package: me.alfhaily.rocket
+Name: Rocket for Instagram
+Version: 3.6.11
+Section: Tweaks
+Priority: optional
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Author: Majd Alfhaily
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Description: Save posts and view stories anonymously and do much more
+Depiction: https://api.getrocketapp.io/depiction/web
+SileoDepiction: https://api.getrocketapp.io/depiction/sileo
+Icon: https://api.getrocketapp.io/resources/depiction/images/icon.png
