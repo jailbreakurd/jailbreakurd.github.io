@@ -28,3 +28,19 @@ Section: Tweaks
 Description: colorful music.
 Author: David Goldman <help@golddavid.com>
 Name: ColorFlow 5 (iOS 13)
+
+
+Package: jp.r-plus.doublecut
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Filename: /doublecut.deb
+Size: 23440
+MD5sum: 3cfddb8e047d816286d52ccf73425dcf
+SHA1: 2e08f49c43dd7b64a64b2a50bc62925dc0c2129d
+SHA256: cf76ebc8c7052a40692458a4aae28d54a3cc30bf22c9641214267a117572f90a
+Section: Tweaks
+Description: Double-/Triple-Tap/LongPress key to insert text
+Author: r_plus <anasthasia.r+doublecut@gmail.com>
+Name: DoubleCut
