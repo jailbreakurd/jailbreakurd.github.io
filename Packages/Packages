@@ -1,3 +1,4 @@
+
 Package: me.alfhaily.rocket
 Version: 3.6.11
 Architecture: iphoneos-arm
@@ -12,7 +13,7 @@ Section: Tweaks
 Description: Save posts and view stories anonymously and do much more
 Author: Majd Alfhaily
 Name: Rocket for Instagram
-————
+
 Package: com.golddavid.colorflow5
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -27,7 +28,7 @@ Section: Tweaks
 Description: colorful music.
 Author: David Goldman <help@golddavid.com>
 Name: ColorFlow 5 (iOS 13)
-————
+
 Package: jp.r-plus.doublecut
 Version: 0.5
 Architecture: iphoneos-arm
