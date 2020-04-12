@@ -61,19 +61,24 @@ Author: Majd Alfhaily
 Name: Rocket for Instagram
 
 Package: com.golddavid.colorflow5
+Name: ColorFlow 5 (iOS 13)
 Version: 1.0.3
+Section: Tweaks
 Architecture: iphoneos-arm
-Maintainer: David Goldman
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3, com.golddavid.colorflow4
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3, com.golddavid.colorflow4
+Installed-Size: 1424
+Author: David Goldman <help@golddavid.com>
+Maintainer: David Goldman <help@golddavid.com>
+Description: colorful music.
+Depiction: http://apt.golddavid.com/depictions/ColorFlow5.html
+Tag: cydia::commercial
 Filename: /colorflow5.deb
 Size: 545448
 MD5sum: 230347e4c66198208e540836920a67b8
 SHA1: 187f2658406c79f62717c31783d27cd460a4c801
 SHA256: 5fb5eabb877933405af0a020edfdb253f62e06d95d57425116d0c393d6aeef4b
-Section: Tweaks
-Description: colorful music.
-Author: David Goldman <help@golddavid.com>
-Name: ColorFlow 5 (iOS 13)
 
 Package: jp.r-plus.doublecut
 Version: 0.5
