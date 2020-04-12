@@ -29,19 +29,21 @@ SHA1: 1c863f5bef6590bd6689edbd9f30de52524d0016
 SHA256: 3a7c207801f00e3ab962b51c7e3119b3b00f08dd1cf986cb7601067eb588670f
 
 Package: com.julioverne.goodwifi
+Name: GoodWiFi
+Author: julioverne
 Version: 0.0~beta5a
-Architecture: iphoneos-arm
-Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Better WiFi Preferences
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
 Filename: /goodwifi.deb
 Size: 97816
 MD5sum: ad2c6dc15aa9bb0495ba307d9551d235
 SHA1: 90d5393ff0df619d71b67ce730053c0794ef42db
 SHA256: 07a03fe96c45d7aa7349225df72e13da1f8d1b6f82761c0dfefc595cd6ebcaca
-Section: Tweaks
-Description: WiFi++
-Author: julioverne
-Name: GoodWiFi
 
 Package: me.alfhaily.rocket
 Version: 3.6.11
