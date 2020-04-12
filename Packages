@@ -46,19 +46,22 @@ SHA1: 90d5393ff0df619d71b67ce730053c0794ef42db
 SHA256: 07a03fe96c45d7aa7349225df72e13da1f8d1b6f82761c0dfefc595cd6ebcaca
 
 Package: me.alfhaily.rocket
+Name: Rocket for Instagram
 Version: 3.6.11
+Section: Tweaks
+Priority: optional
 Architecture: iphoneos-arm
-Maintainer: Majd Alfhaily
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Author: Majd Alfhaily
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Description: Save posts and view stories anonymously and do much more
+Depiction: https://api.getrocketapp.io/depiction/web
+SileoDepiction: https://api.getrocketapp.io/depiction/sileo
 Filename: /rocketforinstagram.deb
 Size: 5796954
 MD5sum: 4f78fbd633b075b285f64feb9da00e18
 SHA1: 208d2a71fdc74b4fb0be116c9070baf8b33f0136
 SHA256: 14b64072cbe3f71974737fa74790c12503a467e5e5d87f86ec23552ab510329f
-Section: Tweaks
-Description: Save posts and view stories anonymously and do much more
-Author: Majd Alfhaily
-Name: Rocket for Instagram
 
 Package: com.golddavid.colorflow5
 Name: ColorFlow 5 (iOS 13)
@@ -80,16 +83,21 @@ SHA1: 187f2658406c79f62717c31783d27cd460a4c801
 SHA256: 5fb5eabb877933405af0a020edfdb253f62e06d95d57425116d0c393d6aeef4b
 
 Package: jp.r-plus.doublecut
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Name: DoubleCut
 Version: 0.5
 Architecture: iphoneos-arm
+Description: Double-/Triple-Tap/LongPress key to insert text
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Author: r_plus <anasthasia.r+doublecut@gmail.com>
+Section: Tweaks
+dev: rplus
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doublecutDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doublecutDp
+Installed-Size: 403
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Filename: /doublecut.deb
 Size: 23440
 MD5sum: 3cfddb8e047d816286d52ccf73425dcf
 SHA1: 2e08f49c43dd7b64a64b2a50bc62925dc0c2129d
 SHA256: cf76ebc8c7052a40692458a4aae28d54a3cc30bf22c9641214267a117572f90a
-Section: Tweaks
-Description: Double-/Triple-Tap/LongPress key to insert text
-Author: r_plus <anasthasia.r+doublecut@gmail.com>
-Name: DoubleCut
