@@ -1,3 +1,19 @@
+Package: com.avrest.pubgm
+Name: PUBGM MOD MENU
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: PUBG Mod Menu by avrest
+Maintainer: avrest 
+Author: avrest
+Section: Tweaks
+Version: 0.17.0
+Installed-Size: 860
+Filename: /avrestmodmenu.deb
+Size: 520936
+MD5sum: b911cead4f1af1e10805fdcb5179c951
+SHA1: 1c863f5bef6590bd6689edbd9f30de52524d0016
+SHA256: 3a7c207801f00e3ab962b51c7e3119b3b00f08dd1cf986cb7601067eb588670f
+
 Package: com.julioverne.goodwifi
 Version: 0.0~beta5a
 Architecture: iphoneos-arm
