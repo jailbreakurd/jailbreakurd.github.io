@@ -1,3 +1,39 @@
+Author: Orangebananaspy <rsanghav12@yahoo.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: RomanPasscode
+Package: org.thebigboss.romanpasscode
+Depends: firmware (>= 8.0), mobilesubstrate
+Section: Tweaks
+Installed-Size: 199
+Version: 2.1
+Architecture: iphoneos-arm
+Description: Roman numbers in Passcode
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=romanpasscodeDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=romanpasscodeDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: orangebananaspy
+Filename: /romanpasscode.deb
+Size: 8348
+MD5sum: fff48848edffe1ff5ad524ae65600102
+SHA1: 06802840a1fd782f3c1466e32f4dffa11486ba9f
+SHA256: 33059ee50150592593af16ec3fd9c6abd9a0cb0d63c736a84fcd6a6fb78df681
+
+Package: com.ryannair05.tempusromanum
+Name: Tempus RomƒÅnum
+Version: 1.0.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 384
+Author: Ryan Nair
+Maintainer: Ryan Nair
+Description: Show the time in Roman Numerals
+Filename: /TempusRomanum.deb
+Size: 38808
+MD5sum: 1de851b4d77287b36b4dfca6ab6fb357
+SHA1: a9c2818fa245b1b74791e9251ce61ffac94de85f
+SHA256: 11a3ab48e6ea7ae2cec25b03226a5f253b143beba49901f09234709a8d20db5f
+
 Package: com.yourepo.storeali.antibanbyavrestvip
 Name: ANTIBAN By AvrestIOS VIP
 Version: 1.0.2
