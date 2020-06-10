@@ -1,3 +1,25 @@
+Name: 11Pro
+Package: com.ahmedmakls.11pro
+Priority: optional
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Version: 2.0-2
+Architecture: iphoneos-arm
+Description: Add features of iPhone Max Pro camera to older devices
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=11proDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=11proDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: ahmedmakls <makhl.2266@yahoo.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios13
+Installed-Size: 2452
+dev: ahmedmakls
+Filename: /AllPackages/11pro.deb
+Size: 1564988
+MD5sum: 7c34d5a566600099e6f66fcb067bf336
+SHA1: 2d186088b4c0efee37469c4ffd276b3fb0741ed4
+SHA256: 5fc7f3567f3e69a5a969f2111ab00d2e7de9b74cc3a227d65db9a357c5db660d
+
 Package: com.laughingquoll.quart
 Name: Quart
 Version: 1.1.2
