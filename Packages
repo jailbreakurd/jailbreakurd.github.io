@@ -1,0 +1,603 @@
+Package: com.macciti.axla3
+Name: Axla 3
+Version: 1.2
+Architecture: iphoneos-arm
+Depends: com.codethemed.iconbundles, com.anemonetheming.anemone
+Description: Simplicity with Colour
+Maintainer: iC <apt@macciti.com>
+Author: Andy (meteochu) <andy@meteochu.me>
+Section: Themes (SpringBoard)
+Filename: /AllPackages/axla3.deb
+Size: 14188016
+MD5sum: 3b4fe5132c551529c1ca5fbabbdb0452
+SHA1: bca6d8a5ce429a2d5b1ceeb4cae8ec64f6190203
+SHA256: 964d1cc333d39179ff0199cbed174ed757e5d5949bc433894928b811a5eefdc3
+
+Package: beta.simalary.pigment
+Name: Pigment
+Version: 1.0.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Conflicts: com.golddavid.colorbanners3, com.mrgcgamer.colormenotifs
+Installed-Size: 556
+Author: Simalary (Chris) <19harperc@gmail.com>
+Maintainer: Simalary (Chris) <19harperc@gmail.com>
+Description: Add some color to your device.
+Filename: /AllPackages/pigment.deb
+Size: 201854
+MD5sum: ee4b74fa5ef6d34156a99af1d13ee0e7
+SHA1: 12b151d4b4278fc5366239d501472eeb35ed8be4
+SHA256: 91c2cc06e5dc6a04e316ac07c27440a28dacb33a740eab26b16912acaa7fe33d
+
+Author: Delewhopper <dradlp@web.de>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: KeySwipe
+Package: org.thebigboss.keyswipe
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Section: Tweaks
+Installed-Size: 135
+Version: 1.0.2-3
+Architecture: iphoneos-arm
+Description: change keyboard by swiping up/down
+Filename: /AllPackages/keyswipe.deb
+Size: 11188
+MD5sum: 3d022d8ba99bd092bc8b484de7cbc14d
+SHA1: 2c5a979215e6aee57def43cf7d5b6e3932b65821
+SHA256: 689062fb32459ea6c4a7ff4df31fb5bc3cbc0d9d442434886e94fa83eb7a495c
+
+Package: com.twickd.guillemejia17.blearyx
+Name: BlearyX
+Version: 1.1.3
+Architecture: iphoneos-arm
+Description: Excellent theme with blur effect and degraded!
+Author: Guillemejia17 <guille171991@hotmail.com>
+Maintainer: Guillemejia17 <guille171991@hotmail.com>
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Depiction: https://repo.twickd.com/package/com.twickd.guillemejia17.blearyx
+SileoDepiction: https://repo.twickd.com/package/com.twickd.guillemejia17.blearyx/native
+Tag: purpose::extension, cydia::commercial, compatible_min::ios10.0, compatible_max::ios13.6.1
+Filename: /AllPackages/blearyx.deb
+Size: 24493664
+MD5sum: e841f2e19a5dbaa97ff376a47d9f3ea2
+SHA1: 53718a959b4f35d5bb5bd1eecbd6c7a8d8e805a1
+SHA256: b5f1e4f8a743dfe6f745307ba7ba9118b3b662dabf4b8b1b5f7273b5898e6b07
+
+Package: com.fouadraheb.appdata
+Name: AppData
+Version: 1.2.3
+Description: View & Access Applications Data from Home Screen
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts:
+Architecture: iphoneos-arm
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
+Filename: /AllPackages/appdata.deb
+Size: 172128
+MD5sum: 860782a56c6bec8a986003874f458107
+SHA1: c505c3a94ac5df4e7474e4cfaaccbb27918de299
+SHA256: fc1dae2d2a2ab13eb78e25262eac76a7c9162d30b91f54e2922e85f4238eed23
+
+Package: com.udevs.dockx
+Name: DockX
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0),
+ws.hbang.alderis
+Architecture: iphoneos-arm
+Description: Pasteboard shortcuts on your dock!
+Maintainer: udevs
+Author: udevs
+Section: Tweaks
+Conflicts: com.restiveconch.actionbar
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.dockx
+Version: 1.7.3.1
+Installed-Size: 800
+Filename: /AllPackages/dockx.deb
+Size: 126608
+MD5sum: d5f5b3585df140ff99369d4e99270440
+SHA1: cd64e6381336479bf3f751a38b0821494b773659
+SHA256: 34b7efe2f91e4141d688c4a4e78689ffd7ab896301604065cd2d0248baaf50b4
+
+Package: com.zx02.frame
+Name: Frame
+Depends: mobilesubstrate,preferenceloader,firmware (>= 12.1.9)
+Architecture: iphoneos-arm
+Description: Bring your iDevice to life with true video wallpapers.
+Maintainer: Zerui Chen
+Author: Zerui Chen
+Section: Wallpaper
+Version: 2.3.1
+Installed-Size: 7380
+Filename: /AllPackages/frame.deb
+Size: 1455488
+MD5sum: 21f451ae3d32ecbb05ec7cf31d840b64
+SHA1: 8731b55f57a6af0781d4fee49b076cfbe8ad5bc8
+SHA256: 6429f3659908aeab1ba40900c94b05aa72595a787f511e79f18c609e530ecfcc
+
+Package: com.megadev.sentinel
+Name: Sentinel
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader
+Architecture: iphoneos-arm
+Description: Stop losing your jailbreak when your battery dies!
+Maintainer: MegaDev
+Author: MegaDev
+Section: Tweaks
+Version: 1.1
+Installed-Size: 500
+Filename: /AllPackages/sentinel.deb
+Size: 17716
+MD5sum: 73e74c40199cfa2e2de2f67667be89cd
+SHA1: cb63e5342ae0e6ac8f284f594a38943216733500
+SHA256: 5a83dd690dd244f2dc8ffe7e43008c5693c2792b453eecd641e45275052af981
+
+Author: John Coates <john@johncoates.me>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Flex 3
+Package: com.johncoates.Flex3
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
+Recommended: com.modmyi.libswift4 (>= 4.0.3)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, Flex3, Flex3beta, flex3featurecatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, Flex3, Flex3beta, flex3featurecatalog
+Section: Tweaks
+Installed-Size: 57210
+Version: 3~EarlyAccess4
+Architecture: iphoneos-arm
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flex3Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flex3Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: acapulco1988
+Tag: purpose::extension, compatible::ios9, compatible::ios10
+Filename: /AllPackages/flex3.deb
+Size: 12480092
+MD5sum: 100aa80ca81f53bf20251f2aac724f7a
+SHA1: d7f1e729546546b631c159f6c8661df861b8ac6a
+SHA256: d648c351186e46020ede6106a952c6eec1c34776083e4e30109bc84e4c188e31
+
+Package: com.p2kdev.floatingdockplus13
+Name: FloatingDockPlus13
+Version: 1.1.7
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.spark.libsparkapplist
+Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock, com.imkpatil.floatingdockplus
+Installed-Size: 524
+Author: P2KDev <p2kdev@gmail.com>
+Maintainer: P2KDev <p2kdev@gmail.com>
+Description: Use your Dock like a PRO!
+Filename: /AllPackages/FloatingDockPlus13.deb
+Size: 74572
+MD5sum: 857e4ddc2e20e1db727098032e0b9ed0
+SHA1: 3999005378f573471353a8c9c33722289b9092ab
+SHA256: 776ad0f6099430fea54207a255420da78e6aadf6bf73a7c5131572c5edc059f8
+
+Package: me.nepeta.selector
+Name: Selector
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Select text to search or translate
+Maintainer: Baw Appie
+Author: Nepeta & Baw Appie
+Section: Tweaks
+Version: 0.1.3
+Installed-Size: 336
+Filename: /AllPackages/selector.deb
+Size: 29670
+MD5sum: 77291281098310e214391b7ba293c0b5
+SHA1: eed3ced78b877c8dd32b1a9323be2238d5a52f3a
+SHA256: fdd2c92f52a326a44b6c85a778d23309df71abdc8148c24c95d00a284d622a43
+
+Package: me.nepeta.axon
+Name: Axon
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Architecture: iphoneos-arm
+Description: Priority Hub for iOS 11 and 12
+Maintainer: Baw Appie
+Author: Nepeta & Baw Appie
+Section: Tweaks
+Version: 1.2
+Installed-Size: 576 
+Filename: /AllPackages/axon.deb
+Size: 141418
+MD5sum: 54c4a23d77dcea02fb59f7c1d1724b77
+SHA1: 433170d1ce3b6688254ff88f14b059b11b8b7e45
+SHA256: 792d0ae281e400e6ec18425470a382bea9c3784593b11462698b78dd0a96b04d
+
+Package: xyz.royalapps.cleanhomescreen
+Name: CleanHomeScreen
+Depends: mobilesubstrate,preferenceloader
+Architecture: iphoneos-arm
+Description: Remove all the clutter from your home screen and lock screen!
+Maintainer: Justin Proulx
+Author: Justin Proulx
+Section: Tweaks
+Version: 1.0.4
+Installed-Size: 348 
+Filename: /AllPackages/cleanhomescreen.deb
+Size: 23146
+MD5sum: 03c9029b619211127cc28241283dd8e2
+SHA1: 6e951bb7f15b772336966221ba23251f1732d776
+SHA256: 5e548174d50c0aa8f5584d7373279f3444835b8e45b0a162072b23ce26f79ad0
+
+Name: 11Pro
+Package: com.ahmedmakls.11pro
+Priority: optional
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Version: 2.0-2
+Architecture: iphoneos-arm
+Description: Add features of iPhone Max Pro camera to older devices
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=11proDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=11proDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: ahmedmakls <makhl.2266@yahoo.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios13
+Installed-Size: 2452
+dev: ahmedmakls
+Filename: /AllPackages/11pro.deb
+Size: 1564988
+MD5sum: 7c34d5a566600099e6f66fcb067bf336
+SHA1: 2d186088b4c0efee37469c4ffd276b3fb0741ed4
+SHA256: 5fc7f3567f3e69a5a969f2111ab00d2e7de9b74cc3a227d65db9a357c5db660d
+
+Package: com.laughingquoll.quart
+Name: Quart
+Version: 1.1.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate,
+com.laughingquoll.prefixui
+Installed-Size: 1772
+Author: LaughingQuoll
+Maintainer: LaughingQuoll
+Description: Notifications, redefined.
+Filename: /AllPackages/quart.deb
+Size: 1065392
+MD5sum: 156c916de6d32f5170cd639b8545e30e
+SHA1: 0700f2eb31358753e65de8798f23806d7b94e073
+SHA256: 4bd4fe9262a86df1d6a0324533f73f7d2f35d39a0e64f2b12a36307a4ca8471a
+
+Package: com.esquilli.scorpion
+Name: Scorpion
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libmryipc, ws.hbang.common (>= 1.11), firmware (>= 13.0), ws.hbang.alderis, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Description: Intrusive call interface? Say no more. 
+Maintainer: Esquilli
+Author: Esquilli
+Section: Tweaks
+Version: 1.4.2
+Installed-Size: 2060
+Filename: /AllPackages/Scorpion.deb
+Size: 834958
+MD5sum: 8d6a50c791021ccb033c14ac60d22abb
+SHA1: e430723f7c907a078ac78e8f484ce00c405157b1
+SHA256: 5ed71023ccc77866a0e05bfa49a1ee85c48dc814349d2fa5d0dd3b768eab87ae
+
+Package: com.julioverne.cydown
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Version: 7.1.0
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Cydia Download Manager & Extra Features!
+Homepage: http://twitter.com/ijulioverne
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
+Maintainer: Julio
+Section: Tweaks
+Icon: https://glasklarthd.dreamnet.at/icons/8/784/com.julioverne.cydown_source.png Filename: /AllPackages/cydown.deb
+Size: 4325614
+MD5sum: abfcd6c91010d2ffc72575a5afa59d96
+SHA1: 8a319c42088dd119d506c40648ce6304dc342dbd
+SHA256: e7c908c61d146c2d22e68db6488162111ef62b8fa61c2de1744c977ec7f5a138
+
+Package: com.hackyouriphone.localiapstore13
+Name: LocalIAPStore13
+Version: 0.0.2
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: pxcex <repo@hackyouriphone.org>
+Section: Tweaks
+Description: Free In-App Purchases include app IOS 13 bypass Lock iCloud (bypass verify Passcode, Touch ID or Face ID). No options to configure! 
+filename=localiapstore13
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Filename: /AllPackages/localiapstore13.deb
+Size: 3730
+MD5sum: 785763058cf6cc82240b7e2d1d51fb3c
+SHA1: 0ba3c11ac2d9963d768d1363a2d0617bd58d060f
+SHA256: fb9a09fd2f260b0d1098895944737fcd0b41a512001299ca9703199ec7567a8a
+
+Package: com.machport.arch
+Name: Arch
+Version: 1.4
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Installed-Size: 572
+Author: machport
+Maintainer: machport
+Description: Restrics access to certain apps, Configurable in settings
+Filename: /AllPackages/arch.deb
+Size: 81936
+MD5sum: 2e495569052aa8d5a6276900305bb100
+SHA1: e82aee2d837905cfbf89b4edbb9c00d2bcbecd1e
+SHA256: dc6007b81b05f2df0bcdcd2d1d40cde10692195d0e66814acee60f2faaa7a7da
+
+Package: com.tigisoftware.filza
+Name: Filza File Manager
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm
+Description: File Manager for iPhone,iPad, iPod Touch. Supports iOS 7+
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Version: 3.7.6-20
+Installed-Size: 31184
+Filename: /AllPackages/filzafilemanager.deb
+Size: 12811322
+MD5sum: a68217e3eb18fedd901f35e6ffcf1719
+SHA1: 9af7dd9de7a676b891c8bda01a1867c1327f43bc
+SHA256: 477fe328fad017f62fd9f98c70f1b4d6529703bb70f535a3413616cd51672bd8
+
+Package: com.jontelang.snapper2.packix
+Name: Snapper 2
+Version: 2.4.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Installed-Size: 1232
+Author: Jonathan Winger-lang
+Maintainer: Jonathan Winger-lang
+Description: Pin screenshots on the screen.
+Filename: /AllPackages/snapper2.deb
+Size: 198004
+MD5sum: c3880b0357ae9945edac0193e5057e5a
+SHA1: eedd91e1c7bebd0284b1abbd2846654c4c1829c7
+SHA256: e06f2379d4267374542d73ebdb877c4d0d68e00f84565d1a23b038e2958f1a06
+
+Package: com.twickd.ubik.oriental
+Name: Oriental
+Architecture: iphoneos-arm
+Description: To rotate or not.
+Author: ubik <ubik@fwdr.org>
+Maintainer: ubik <ubik@fwdr.org>
+Section: Tweaks
+Version: 1.0.0
+Depends: mobilesubstrate
+Filename: /AllPackages/oriental.deb
+Size: 6532
+MD5sum: ef8b87b4729ab9757e02c330bc5bce16
+SHA1: 317aacf7eea85c1fc0973186d8dfd69f6b612241
+SHA256: 1cbb0000a3b56fea384c75de2781d450d19c4c870bc8393e2ddd56a0826834b7
+
+Package: com.anthopak.lastlook
+Name: LastLook
+Version: 1.0.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12.0)
+Installed-Size: 472
+Author: AnthoPak <anthopakdev@gmail.com>
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Description: A last look at your Notification Center when you lock your phone!
+Filename: /AllPackages/lastlook.deb
+Size: 108724
+MD5sum: 051f628bb838c7c2874867bfa88d9c88
+SHA1: c08156ff1f6e2422695cc1873a3e74c3b4b42b2a
+SHA256: 0c9830bf4ba496a6b06680f37b0f8c885044ba43b004eb2a9f6d676dea88cd7e
+
+Package: xyz.royalapps.jellyfish
+Name: Jellyfish
+Depends: mobilesubstrate,preferenceloader,firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish.
+Maintainer: Justin Proulx
+Author: Justin Proulx and Ayden Panhuyzen
+Section: Tweaks
+Version: 1.3.3
+Installed-Size: 728
+Filename: /AllPackages/jellyfish.deb
+Size: 135044
+MD5sum: a73be9cc0d15465d4b2fe97d846ed71f
+SHA1: b8ad0f3df4d55604ff323695ab5ef2b7e1633418
+SHA256: 68efa5bd4e5e809de97d5a5e9954572a457b186515766b5a74189d74af776784
+
+Package: com.spark.batterypercentx
+Name: BatteryPercentX [Public]
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: Replaces the battery icon with percentage on the iPhone X
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=BatteryPercentX
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 1.4.1-33
+Installed-Size: 512
+Filename: /AllPackages/batterypercentx.deb
+Size: 146610
+MD5sum: 8a6d91f8ddda678a7b2ff6caa2ab05be
+SHA1: c8d263c42aa37adf98a3a46cc1b32868d85e77f7
+SHA256: bba9bca7ade815a2ee733f07808f6310ef02db5dd8176800d045c7bfccec12da
+
+Package: com.cpdigitaldarkroom.barmoji
+Name: Barmoji
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Quick Emoji Access Bar
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
+Version: 2020.3
+Installed-Size: 444
+Filename: /AllPackages/barmoji.deb
+Size: 55078
+MD5sum: 7a5b96dd22c423ed96f41716cda0e545
+SHA1: 12390d0aca3f68283e433094dff618337c2c9cfd
+SHA256: b98a284beebdb9fc663cea6903f7125d8daa0bc96418c09ece114aca7eff91af
+
+Package: com.bengiannis.complications
+Name: Complications
+Version: 3.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 2132
+Author: Ben Giannis
+Maintainer: Ben Giannis
+Description: watchOS widgets on your lock screen
+Filename: /AllPackages/complications.deb
+Size: 475890
+MD5sum: e52a78ce61a05b0f070ace55ded85697
+SHA1: 7b31215cf4162fd49d40dce3870e2da5a9d90bab
+SHA256: 7c4210204879a6fda7e950b1c38b3e57f9b50ee39c7240119010eb96fa118130
+
+Author: Orangebananaspy <rsanghav12@yahoo.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: RomanPasscode
+Package: org.thebigboss.romanpasscode
+Depends: firmware (>= 8.0), mobilesubstrate
+Section: Tweaks
+Installed-Size: 199
+Version: 2.1
+Architecture: iphoneos-arm
+Description: Roman numbers in Passcode
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=romanpasscodeDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=romanpasscodeDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: orangebananaspy
+Filename: /AllPackages/romanpasscode.deb
+Size: 8348
+MD5sum: fff48848edffe1ff5ad524ae65600102
+SHA1: 06802840a1fd782f3c1466e32f4dffa11486ba9f
+SHA256: 33059ee50150592593af16ec3fd9c6abd9a0cb0d63c736a84fcd6a6fb78df681
+
+Package: com.ryannair05.tempusromanum
+Name: Tempus RomƒÅnum
+Version: 1.0.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 384
+Author: Ryan Nair
+Maintainer: Ryan Nair
+Description: Show the time in Roman Numerals
+Filename: /AllPackages/TempusRomanum.deb
+Size: 38808
+MD5sum: 1de851b4d77287b36b4dfca6ab6fb357
+SHA1: a9c2818fa245b1b74791e9251ce61ffac94de85f
+SHA256: 11a3ab48e6ea7ae2cec25b03226a5f253b143beba49901f09234709a8d20db5f
+
+Package: com.yourepo.storeali.antibanbyavrestvip
+Name: ANTIBAN By AvrestIOS VIP
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: ANTIBAN By Avrest VIP and Liberty lite
+Author: Avrest t.me/AvrestGaming
+Section: Security
+Maintainer: AvrestIOS
+Filename: /AllPackages/ANTI_GLOBAL_KR_AvrestIOS.deb
+Size: 4382342
+MD5sum: a5cfbddd28a12da17816b1e33f8f7d7c
+SHA1: 9d350a0aa4070ff414d20cd35d7109a7487042c4
+SHA256: 9ead8c4e91e168b2ba0b300d9839a5e2086862136eeef798aec66066553a0e86
+
+Package: com.avrest.pubgm
+Name: PUBGM MOD MENU
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: PUBG Mod Menu by avrest
+Maintainer: avrest 
+Author: avrest
+Section: Tweaks
+Version: 0.17.0
+Installed-Size: 860
+Filename: /AllPackages/avrestmodmenu.deb
+Size: 520936
+MD5sum: b911cead4f1af1e10805fdcb5179c951
+SHA1: 1c863f5bef6590bd6689edbd9f30de52524d0016
+SHA256: 3a7c207801f00e3ab962b51c7e3119b3b00f08dd1cf986cb7601067eb588670f
+
+Package: com.julioverne.goodwifi
+Name: GoodWiFi
+Author: julioverne
+Version: 0.0~beta5a
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Better WiFi Preferences
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Filename: /AllPackages/goodwifi.deb
+Size: 97816
+MD5sum: ad2c6dc15aa9bb0495ba307d9551d235
+SHA1: 90d5393ff0df619d71b67ce730053c0794ef42db
+SHA256: 07a03fe96c45d7aa7349225df72e13da1f8d1b6f82761c0dfefc595cd6ebcaca
+
+Package: me.alfhaily.rocket
+Name: Rocket for Instagram
+Version: 3.7.3
+Description: Save posts and view stories anonymously and do much more
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Priority: optional
+Architecture: iphoneos-arm
+Author: Majd Alfhaily
+Depiction: https://api.getrocketapp.io/depiction/web
+SileoDepiction: https://api.getrocketapp.io/depiction/sileo
+Icon: https://api.getrocketapp.io/resources/depiction/images/icon.png
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Filename: /AllPackages/rocketforinstagram.deb
+Size: 7513012
+MD5sum: 48d70d9b04d89642774380c98bd09566
+SHA1: 7f14b95c9fe6afaf5ba95e34d2248437f9560b54
+SHA256: 7ff47ee512950c141eb4254f8e3396ab09a92c772153059a473795851de0949f
+
+Package: com.golddavid.colorflow5
+Name: ColorFlow 5 (iOS 13)
+Version: 1.0.3
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3, com.golddavid.colorflow4
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3, com.golddavid.colorflow4
+Installed-Size: 1424
+Author: David Goldman <help@golddavid.com>
+Maintainer: David Goldman <help@golddavid.com>
+Description: colorful music.
+Depiction: http://apt.golddavid.com/depictions/ColorFlow5.html
+Filename: /AllPackages/colorflow5.deb
+Size: 545448
+MD5sum: 230347e4c66198208e540836920a67b8
+SHA1: 187f2658406c79f62717c31783d27cd460a4c801
+SHA256: 5fb5eabb877933405af0a020edfdb253f62e06d95d57425116d0c393d6aeef4b
+
+Package: jp.r-plus.doublecut
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Name: DoubleCut
+Version: 0.5
+Architecture: iphoneos-arm
+Description: Double-/Triple-Tap/LongPress key to insert text
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: r_plus <anasthasia.r+doublecut@gmail.com>
+Section: Tweaks
+dev: rplus
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doublecutDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doublecutDp
+Installed-Size: 403
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Filename: /AllPackages/doublecut.deb
+Size: 23440
+MD5sum: 3cfddb8e047d816286d52ccf73425dcf
+SHA1: 2e08f49c43dd7b64a64b2a50bc62925dc0c2129d
+SHA256: cf76ebc8c7052a40692458a4aae28d54a3cc30bf22c9641214267a117572f90a
