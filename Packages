@@ -1,5 +1,22 @@
 Architecture: iphoneos-arm
 Author: MegaDev
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader
+Description: Place your iPhone in a
+limited state, To decrease charge times
+Filename: /AllPackages/batteryramp.deb
+Installed-Size: 664
+Maintainer: MegaDev
+MD5sum: 38889ad6a43b8d9f7f271547e322f084
+Name: BatteryRamp
+Package: com.megadev.batteryramp
+Section: Tweaks
+SHA1: 248d5b3529a13014b153f1b50e0012a8ab761fa0
+SHA256: 468b7a956c9ab01c84c6dc2e9b49a6c5256bd14e5f8253e5d5887db7b4c1edca
+Size: 57606
+Version: 1.3.0
+
+Architecture: iphoneos-arm
+Author: MegaDev
 Depends: mobilesubstrate,ws.hbang.common,preferenceloader,ws.hbang.alderis (>= 1.1),com.spark.libsparkapplist
 Description: A beautifully simple lockscreen application launcher for iOS 14.
 Filename: /AllPackages/jellylockreborn.deb
