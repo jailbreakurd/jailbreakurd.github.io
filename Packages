@@ -84,7 +84,7 @@ Filename: /AllPackages/cozybadges.deb
 Installed-Size: 424
 Maintainer: NoisyFlake
 MD5sum: cf1ac9c81e34c8dd3c79a232decc8168
-Name: LowLock
+Name: CozyBadges
 Package: com.noisyflake.cozybadges
 Section: Tweaks
 SHA1: 3d092c090444ea89c067f9dfc2e88ba9d2e7c8d3
