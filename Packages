@@ -1,4 +1,29 @@
 Architecture: iphoneos-arm
+Author: akusio
+Conflicts: jp.akusio.kernbypass, com.apple.memecity
+Depends: mobilesubstrate, preferenceloader
+Depiction: https://cydia.ichitaso.com/depiction/kernbypass.html
+Description: kernel level jailbreak detection bypass.
+dev: akusio, Misty, ichitaso, XsF1re
+Filename: /AllPackages/kernbypass.deb
+Homepage: https://ichitaso.com 
+Icon: file:///Library/PreferenceBundles/KernBypassPrefs.bundle/icon@2x.png
+Installed-Size: 920
+Maintainer: ichitaso
+MD5sum: 88664e2a63933c4ba6c58a13936d4299
+Name: KernBypass (Unofficial)
+Package: jp.akusio.kernbypass-unofficial
+Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
+Replaces: jp.akusio.kernbypass-unofficial
+Section: System
+SHA1: d2eed190bf07e978ec7e78c4f3ae5c39729a91f2
+SHA256: 8ee495c8fff663df9ddeb562b595bd8438fcc86a3a5e83fcbe0bfbf9a6a14f6b
+SHA512: 065c1e9a5bbe16fc7d6c744771124bd8ed924256879800b282f041e9644a1b5a24abe4946a1c7d71fedd61cfce53a1725afdcc4f8d57ed5a71793bb425756b6b
+Size: 144922
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Version: 0.0.5
+
+Architecture: iphoneos-arm
 Author: MegaDev
 Depends: mobilesubstrate,ws.hbang.common,preferenceloader
 Description: Place your iPhone in a
