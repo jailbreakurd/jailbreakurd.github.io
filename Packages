@@ -874,26 +874,6 @@ MD5sum: 860782a56c6bec8a986003874f458107
 SHA1: c505c3a94ac5df4e7474e4cfaaccbb27918de299
 SHA256: fc1dae2d2a2ab13eb78e25262eac76a7c9162d30b91f54e2922e85f4238eed23
 
-Package: com.udevs.dockx
-Name: DockX
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0),
-ws.hbang.alderis
-Architecture: iphoneos-arm
-Description: Pasteboard shortcuts on your dock!
-Maintainer: udevs
-Author: udevs
-Section: Tweaks
-Conflicts: com.restiveconch.actionbar
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
-Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.dockx
-Version: 1.7.3.1
-Installed-Size: 800
-Filename: /AllPackages/dockx.deb
-Size: 126608
-MD5sum: d5f5b3585df140ff99369d4e99270440
-SHA1: cd64e6381336479bf3f751a38b0821494b773659
-SHA256: 34b7efe2f91e4141d688c4a4e78689ffd7ab896301604065cd2d0248baaf50b4
-
 Package: com.zx02.frame
 Name: Frame
 Depends: mobilesubstrate,preferenceloader,firmware (>= 12.1.9)
