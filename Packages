@@ -1,3 +1,23 @@
+Package: com.miro.shortmoji
+Name: Shortmoji
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard, com.ya7yajb.shortmoji
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Description: The ultimate keyboard tweak that iOS never had.
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Icon: file:////Library/PreferenceBundles/Shortmoji.bundle/Header.png
+Version: 4.7
+Installed-Size: 7112
+Filename: /AllPackages/shortmoji.deb
+Size: 1594726
+MD5sum: 60370725d44ddd79156a5166445753c1
+SHA1: 0b29d21b98ffa327f3c0775f18896ff0e5c67991
+SHA256: cb7bdc8b34dc08caea3c9d14f3658f6390828f062d5f89e947da6cc801202f22
+
 Architecture: iphoneos-arm
 Author: akusio
 Conflicts: jp.akusio.kernbypass, com.apple.memecity
