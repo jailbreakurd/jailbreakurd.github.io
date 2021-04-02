@@ -1,3 +1,66 @@
+Author: ichitaso
+Maintainer: ichitaso
+Package: com.ichitaso.exsto13
+Name: Exsto (iOS 13 to 14)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.zachatrocity.exsto, com.julioverne.exsto11
+Replaces: com.ichitaso.exsto13
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Unleash your folders
+Depiction: https://cydia.ichitaso.com/depiction/exsto13.html
+homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13, compatible::ios14
+Icon: file:///Library/PreferenceBundles/Exsto13.bundle/icon@2x.png
+Version: 0.0.9
+Installed-Size: 424
+Filename: /AllPackages/exsto13to14.deb
+Size: 81210
+MD5sum: 796fc3de25409b9661339a17455ebeb4
+SHA1: 47e2daaee6eb8040d9689bae576edac55cffcb31
+SHA256: 8816bea8c8a06c4687530c356e10a41a3ae61b4acaa6da333542bb2bf8553efa
+
+Author: Zachary Russell <zachatrocity@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Exsto
+Package: com.zachatrocity.exsto
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Section: Tweaks
+Installed-Size: 715
+Version: 0.0.1.2-1
+Architecture: iphoneos-arm
+Description: Unleash your folders
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=exstoDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=exstoDp
+dev: zachatrocity
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/exsto.bundle/exsto@2x.png
+Filename: /AllPackages/exsto.deb
+Size: 127256
+MD5sum: c9fed4b51e987599212c022b3beeb17c
+SHA1: 2c1259801cb554e578909393b640a6e422bbc241
+SHA256: a03c1dae45214788f6c570a83b91e093774ffda874aa345268a27dc908001f0f
+
+Author: Zachary Russell, julioverne
+Maintainer: Julio
+Name: Exsto (iOS 11)
+Package: com.julioverne.exsto11
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Conflicts: com.zachatrocity.exsto
+Section: Tweaks
+Version: 0.0.1.2-2
+Architecture: iphoneos-arm
+Description: Unleash your folders
+dev: zachatrocity
+Icon: file:///Library/PreferenceBundles/exsto.bundle/exsto@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.exsto11
+Filename: /AllPackages/exsto11.deb
+Size: 226142
+MD5sum: cc3682071470c771aa66076847cb1b8d
+SHA1: b85af610564d712eabdc7874202e2f29c0a1fa75
+SHA256: 97f5cc6ee0fd5a8007085b831656171dd1fa478c525efa0e7a07e28b3a8ad74f
+
 Package: com.miro.shortmoji
 Name: Shortmoji
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
