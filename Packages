@@ -29,7 +29,7 @@ Section: Tweaks
 Description: A beautiful first sight.
 Author: ubik <cydia@ubikstyl.es>
 Version: 3.0.3
-Tag: cydia::commercial, compatible_min::ios13.0
+Tag: compatible_min::ios13.0
 Icon: https://chariz.com/cdn/icon/kalm/icon@3x.png
 Depiction: https://chariz.com/buy/kalm
 Installed-Size: 1228
@@ -91,7 +91,7 @@ Description: Unleash your folders
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=exstoDp
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=exstoDp
 dev: zachatrocity
-Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Tag: purpose::extension, compatible::ios8, compatible::ios9
 Icon: file:///Library/PreferenceBundles/exsto.bundle/exsto@2x.png
 Filename: /AllPackages/exsto.deb
 Size: 127256
