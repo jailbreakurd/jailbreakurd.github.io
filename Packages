@@ -1,3 +1,60 @@
+Package: com.matchstic.xenhtml
+Name: Xen HTML
+Version: 2.0~release
+Section: System
+Priority: optional
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Author: Matt Clarke <matt@incendo.ws>
+Maintainer: Matt Clarke <matt@incendo.ws>
+Description: Run HTML widgets on the Lockscreen and Homescreen
+Depiction: https://xenpublic.incendo.ws/depictions/com.matchstic.xenhtml.html
+dev: Matt Clarke <matt@incendo.ws>
+SileoDepiction: https://xenpublic.incendo.ws/sileo/com.matchstic.xenhtml.json
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/
+Filename: /AllPackages/xenhtml.deb
+Size: 4264672
+MD5sum: b64a998f0c27836128f389ab2e500737
+SHA1: 500a795cd3be7d7bb7a38e4617d0e328fbd3974c
+SHA256: e1090532f016507e83ba8e6276dd4809d903bbabcb656466e1ea044bd692259c
+
+Package: hi.my.name.is.ubik.kalm
+Name: Kalm
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum, com.twickd.julius.april
+Architecture: iphoneos-arm
+Maintainer: ubik <cydia@ubikstyl.es>
+Section: Tweaks
+Description: A beautiful first sight.
+Author: ubik <cydia@ubikstyl.es>
+Version: 3.0.3
+Tag: cydia::commercial, compatible_min::ios13.0
+Icon: https://chariz.com/cdn/icon/kalm/icon@3x.png
+Depiction: https://chariz.com/buy/kalm
+Installed-Size: 1228
+Filename: /AllPackages/kalm.deb
+Size: 266202
+MD5sum: 12f3a0d3a9bad7831d2494d369b22a26
+SHA1: 5a566b935c0990b31bf394b1697bb53a334748bf
+SHA256: acaf784c86b24174de42a15dde4eb90d1e5a13db17430314ab057d816fb314ca
+
+Package: com.spark.autounlockx
+Name: AutoUnlockX
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Unless there are notifications, the device will automatically unlock when valid Face ID is detected
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 1.0.16
+Installed-Size: 352
+Filename: /AllPackages/autounlockx.deb
+Size: 64682
+MD5sum: 2690665b101ce45878b96d8100ed995f
+SHA1: cac359a2267a8788acff81b3daeb6ad68e94bc5f
+SHA256: 272a54819e8b298918dc95f97abd0f3d5d402a132efd1dcfa5b061d5aa921272
+
 Author: ichitaso
 Maintainer: ichitaso
 Package: com.ichitaso.exsto13
