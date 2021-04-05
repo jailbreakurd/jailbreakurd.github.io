@@ -1,3 +1,22 @@
+Package: com.twickd.dylan-west.floatytab
+Name: FloatyTab
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, applist, ws.hbang.common (>= 1.14)
+Architecture: iphoneos-arm
+Description: Make your tab bar floaty...
+Maintainer: Dylan West <iosthemem0d@gmail.com>
+Author: Dylan West <iosthemem0d@gmail.com>
+Section: Tweaks
+Version: 1.0.5
+Installed-Size: 6152
+Depiction: https://repo.twickd.com/package/com.twickd.dylan-west.floatytab
+SileoDepiction: https://repo.twickd.com/package/com.twickd.dylan-west.floatytab/native
+Tag: purpose::extension, compatible_min::ios13.0, 
+Filename: /AllPackages/floatytab.deb
+Size: 5305720
+MD5sum: 274bc7726b450d6f0422ae46cef1eabe
+SHA1: 824cb5649211bd09e438f6b873f5bf384550c62e
+SHA256: c665464f20c85d017dff7a471a4b8a76005bbb7f21cb979a6c168e0861a3cae2
+
 Package: com.matchstic.xenhtml
 Name: Xen HTML
 Version: 2.0~release
