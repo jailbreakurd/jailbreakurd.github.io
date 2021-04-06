@@ -1,3 +1,19 @@
+Package: com.popsicletreehouse.playour
+Name: Playour
+Version: 1.4.3
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1), com.muirey03.libimagepicker
+Installed-Size: 472
+Author: PopsicleTreehouse
+Maintainer: PopsicleTreehouse
+Description: Change the now playing view to be yours.
+Filename: /AllPackages/playour.deb
+Size: 75464
+MD5sum: 946210646f1fa57b5e74959f26f92509
+SHA1: 32d14bdab4d1cca2cc0640bd486c850e93edcd5b
+SHA256: b00801ea745d8cfd89c3233059e0d62bf6ecd73a0fd76f0dabc1e2ddb6b9a025
+
 Package: com.twickd.dylan-west.floatytab
 Name: FloatyTab
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker, applist, ws.hbang.common (>= 1.14)
